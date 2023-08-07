@@ -7,7 +7,7 @@ namespace SallyBot
         internal static SocketGuild Server { get; set; }
         internal static DiscordSocketClient Client { get; set; }
 
-        internal static string conS = "MTEzMjM1ODk5ODQxOTU4MzAyNg.GCUYkZ.CG2m9iGASpVrs65VLv70XGhjeYbgNffcEu3_ow";
-        internal static ulong guildId = 583025391393046570;
+        internal static string conS = "shit goes here innit";
+        internal static ulong guildId = 69420;
     }
 }
